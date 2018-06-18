@@ -1,0 +1,23 @@
+body {
+
+    height: 100vh;
+}
+
+button {
+  height: 250px;
+  width: 250px;
+  background-color: teal;
+  font-size: 40px;
+  border-radius;
+  margin: 0 auto;
+  display: block;
+  border-style: none;
+  margin-top: 100px;
+  border-radius: 100%;
+  color: white;
+}
+
+p, h1, h2 {
+  color: white;
+  text-align: center;
+}
